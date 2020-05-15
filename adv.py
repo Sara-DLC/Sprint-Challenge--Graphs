@@ -29,8 +29,8 @@ player = Player(world.starting_room)
 # traversal_path = ['n', 'n']
 traversal_path = []
 
-# DFT to find all paths and reverse back
-# BFT to find shortest paths
+# DFS to find all paths and reverse back
+# BFS to find shortest paths
 # Memoization/recursion to store already visited paths?
 # List all potential paths and return the index of the list using index method
 
